@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/cup.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop and cup";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "QUIZ GAME CPP PROJECT",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project is about a simple quiz game. It involves three criteria of quiz. The user has to answer some multiple-choice questions to win the quiz game.",
+    url: "https://github.com/emaanfatymah/quiz-game-cpp-project",
   },
   {
-    title: "Web Development for Beginners",
+    title: "QUIZ GAME JAVA PROJECT",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This Project is designed to enhance the knowledge of the user in which he/she can answer to some multiple choice questions of specific topics.",
+    url: "https://github.com/emaanfatymah/quiz-game-java-project",
   },
   {
-    title: "My Resume Site",
+    title: "CAR SHOWROOM CPP PROJECT",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This Car Showroom system is designed for the users who are interested in cars and are wanting to buy them. This system keeps track of all the cars along with their details.",
+    url: "https://github.com/emaanfatymah/car-showroom-cpp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "CALCULATOR TS PROJECT",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Basic Calculator using TS",
+    url: "https://github.com/emaanfatymah/Calculator_TypeScript",
   },
 ];
 
